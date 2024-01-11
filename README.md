@@ -1,7 +1,6 @@
 # xgapfilling
 
-Gap filling using direct sampling and extremes. Explore fracture density reconstruction with Jupyter notebook examples and synthetic well log data. 
-This repository is associated with paper under review 'Fracture Density Reconstruction Using Direct Sampling Multiple-Point Statistics and Extreme Value Theory'.
+Gap filling using direct sampling and extreme value theory. Explore fracture density reconstruction with Jupyter notebook examples and synthetic well log data.
 
 ## Dependencies
 
@@ -26,3 +25,9 @@ In the "data" folder, you will find:
  
 - Synthetic well log enriched fracture density data with gap in gslib format
   - Filename: `syn_lift.gslib`
+ 
+## Reference and Corrigendum
+
+This repository is associated with a paper under review: 'Fracture Density Reconstruction Using Direct Sampling Multiple-Point Statistics and Extreme Value Theory'. Applied Computing and Geosciences. Ref.: ACAGS-D-23-00073.
+
+Authors: Tanaka, A.P.B., Renard, P., and Straubhaar, J. (2024).
