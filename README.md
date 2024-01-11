@@ -26,7 +26,7 @@ In the "data" folder, you will find:
 - Synthetic well log enriched fracture density data with gap in gslib format
   - Filename: `syn_lift.gslib`
  
-## Reference and Corrigendum
+## Reference
 
 This repository is associated with a paper under review: 'Fracture Density Reconstruction Using Direct Sampling Multiple-Point Statistics and Extreme Value Theory'. Applied Computing and Geosciences. Ref.: ACAGS-D-23-00073.
 
