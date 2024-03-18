@@ -14,7 +14,7 @@ Ana Paula Burgoa Tanaka <sup>1,2\*</sup>, Philippe Renard<sup>1</sup>, Julien St
 A. P. B. Tanaka, P. Renard, J. Straubhaar (2024). Fracture Density Reconstruction Using Direct Sampling Multiple-Point Statistics and Extreme Value Theory. In revision in *Applied Computing and Geosciences* - Ref.: ACAGS-D-23-00073 - March 2024.
 
 ## Data description
-Due to restrictions on sharing the original data used in the reference, we generate synthetic data for the examples provided in this repository. The synthetic logs analysis do not add content to the manuscript. It is available to disseminate the application of the proposed methodology and to easily run the code. People are also encouraged to try with their own data set.
+Due to restrictions on sharing the original data used in the reference, we generate synthetic data for the examples provided in this repository. The synthetic log analysis does not add content to the manuscript. It is available for the dissemination of the application of the proposed methodology and for the ease of the execution of the code. People are also encouraged to try it with their own dataset.
 
 ### Files
 
