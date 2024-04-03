@@ -11,7 +11,8 @@ Ana Paula Burgoa Tanaka <sup>1,2\*</sup>, Philippe Renard<sup>1</sup>, Julien St
 \* corresponding author: ana.burgoa@unine.ch
 
 ## Journal reference
-A. P. B. Tanaka, P. Renard, J. Straubhaar (2024). Fracture Density Reconstruction Using Direct Sampling Multiple-Point Statistics and Extreme Value Theory. *Applied Computing and Geosciences*. Volume 22.
+A. P. B. Tanaka, P. Renard, J. Straubhaar (2024). Fracture density reconstruction using direct sampling multiple-point statistics and extreme value theory. *Applied Computing and Geosciences*. Volume 22.
+
 https://doi.org/10.1016/j.acags.2024.100161
 
 ## Data description
